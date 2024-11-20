@@ -1,5 +1,5 @@
 # React + Vite
-
+# This is a simple React app which mimics the CRUD ops in performing it operations. No backend.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
